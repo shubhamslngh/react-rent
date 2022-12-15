@@ -57,8 +57,6 @@ const Search = () => {
             />
           </Form.Group>
         </Form>
-        <Pricerange />
-
         <section className="iteam_section mt-4 container">
           <h2 className="px-4" style={{ fontWeight: 400 }}>
             Hotels in Bengaluru
