@@ -1,0 +1,13 @@
+[
+    { "name":"hotel0",
+    "price":"200",
+    "location":"newyork",
+    "date":"2022/12/30"},
+
+    {"name":"hotel1",
+    "price":"200",
+    "location":"newyork",
+    "date":"2022/12/30"}
+
+   
+]
