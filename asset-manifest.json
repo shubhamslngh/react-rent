@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rentProp_app/static/css/main.9225f776.css",
+    "main.js": "/rentProp_app/static/js/main.a2cb8367.js",
+    "index.html": "/rentProp_app/index.html",
+    "main.9225f776.css.map": "/rentProp_app/static/css/main.9225f776.css.map",
+    "main.a2cb8367.js.map": "/rentProp_app/static/js/main.a2cb8367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9225f776.css",
+    "static/js/main.a2cb8367.js"
+  ]
+}
